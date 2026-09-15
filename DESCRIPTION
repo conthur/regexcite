@@ -1,4 +1,4 @@
-Package: rpackage
+Package: regexcite
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,5 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/conthur/rpackage
-BugReports: https://github.com/conthur/rpackage/issues
+URL: https://github.com/conthur/regexcite
+BugReports: https://github.com/conthur/regexcite/issues
