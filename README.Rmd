@@ -13,20 +13,20 @@ knitr::opts_chunk$set(
 )
 ```
 
-# rpackage
+# regexcite
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of rpackage is to demo how to create  and manage a r package
+The goal of regexcite is to demo how to create  and manage a r package
 
 ## Installation
 
-You can install the development version of rpackage from [GitHub](https://github.com/) with:
+You can install the development version of regexcite from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
-pak::pak("conthur/rpackage")
+pak::pak("conthur/regexcite")
 ```
 
 ## Example
@@ -34,7 +34,7 @@ pak::pak("conthur/rpackage")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(rpackage)
+library(regexcite)
 ## basic example code
 ```
 

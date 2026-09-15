@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rpackage
+# regexcite
 
 <!-- badges: start -->
 
@@ -11,12 +11,12 @@ The goal of rpackage is to demo how to create and manage a r package
 
 ## Installation
 
-You can install the development version of rpackage from
+You can install the development version of regexcite from
 [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
-pak::pak("conthur/rpackage")
+pak::pak("conthur/regexcite")
 ```
 
 ## Example
@@ -24,7 +24,7 @@ pak::pak("conthur/rpackage")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(rpackage)
+library(regexcite)
 ## basic example code
 ```
 
